@@ -1,7 +1,7 @@
 # Data Visualization: Empowering Business with Effective Insights (Tata Virtual Job Simulation)
 
 ## PowerBI Dashboard 
-Explore the live PowerBI dashboard[Link](https://app.powerbi.com/view?r=eyJrIjoiOWNhZjNkYzQtMGFkMy00MzgyLWIxZTItMDEwZTQyMjk5MzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the live PowerBI dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiOWNhZjNkYzQtMGFkMy00MzgyLWIxZTItMDEwZTQyMjk5MzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## NovyPro Dashboard
 Explore the live NovyPro dashboard [Link](https://www.novypro.com/project/tataonlineretailanalysis-power-bi)
@@ -44,7 +44,7 @@ Thank you for taking the time to view my project. I hope you enjoyed it.
 
 Created and Analyzed by:
 
-Yashas PS @Aspiring Data Analyst[LinkeldIn](https://www.linkedin.com/in/yashas-ps/)
+Yashas PS @Aspiring Data Analyst [LinkeldIn](https://www.linkedin.com/in/yashas-ps/)
 
 Location: India
 
