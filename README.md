@@ -1,8 +1,10 @@
 # Data Visualization: Empowering Business with Effective Insights (Tata Virtual Job Simulation)
 
-## Live Dashboard at NovyPro [Link](https://www.novypro.com/project/tataonlineretailanalysis-power-bi)
+## PowerBI Dashboard 
+Explore the live PowerBI dashboard[Link](https://app.powerbi.com/view?r=eyJrIjoiOWNhZjNkYzQtMGFkMy00MzgyLWIxZTItMDEwZTQyMjk5MzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## Live Dashboard at PowerBI [Link](https://app.powerbi.com/view?r=eyJrIjoiOWNhZjNkYzQtMGFkMy00MzgyLWIxZTItMDEwZTQyMjk5MzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## NovyPro Dashboard
+Explore the live NovyPro dashboard [Link](https://www.novypro.com/project/tataonlineretailanalysis-power-bi)
 
 #
 ## Background information of task-
